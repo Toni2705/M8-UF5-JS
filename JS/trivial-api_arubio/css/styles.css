@@ -1,0 +1,44 @@
+#fondo {
+    background-image:url("../img/background.jpg");
+    background-size: cover 0%;
+}
+#d1 {
+    background-color:rgb(100, 99, 100);
+    width: 400px;
+    height: 500px;
+    text-align:center;
+    margin: auto;
+    color: white;
+}
+.foto {
+    width: 200px;
+    height: 150px;
+}
+#titulo {
+    text-align: center;
+}
+#btrivial {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#contingut {
+    text-align: left;
+}
+#recuadro {
+    border: red solid 2px;
+    width: 700px;
+    padding-bottom: 50px;
+    margin: auto;
+}
+#rcde {
+    width: 200px;
+    height: 200px;
+}
+#boton {
+    border-radius: 30%;
+    height: 50px;
+    width: 100px;
+    background-color:rgb(46, 134, 134);
+    color: white;
+}
